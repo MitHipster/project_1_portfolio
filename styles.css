@@ -7,7 +7,8 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.05rem;
   color: #222;
   background: #8ea9a4;
 }
